@@ -1,0 +1,22 @@
+{
+    "endpoints": [
+        {
+            "name": "Google",
+            "url": "https://www.google.com",
+            "method": "GET",
+            "timeout": 5
+        },
+        {
+            "name": "GitHub API",
+            "url": "https://api.github.com",
+            "method": "GET",
+            "timeout": 5
+        },
+        {
+            "name": "Example API",
+            "url": "https://jsonplaceholder.typicode.com/posts/1",
+            "method": "GET",
+            "timeout": 5
+        }
+    ]
+}
